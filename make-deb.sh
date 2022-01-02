@@ -1,5 +1,5 @@
 #!/bin/bash
-PACKAGE_NAME=glorify
+PACKAGE_NAME=zphisher
 ZPHISHER_VERSION=2.2
 PACKAGE_ARCH=all
 DISTRO=$(uname -o)
